@@ -10,5 +10,6 @@ No data cleaning or pre-processing was required so no python code has been added
 The Power Bi project files are contained inside the __PowerBi__ directory. 
 
 Each student's project is in a separate folder. 
+
 Eg: Jobin Jose's project file can be found in the following directory: __/PowerBi/Jobin Jose/__
 
