@@ -1,4 +1,4 @@
-# Data_Visualization_CA1
+# Data Visualization CA1
 
 ## Dataset
 The entire dataset is contained in a single CSV file named __Car Sales.xlsx - car_data.csv__ in the __Dataset__ directory
